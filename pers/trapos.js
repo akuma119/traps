@@ -1,4 +1,4 @@
-function trapo(unNombre,unApellido,unaEdad,unAno,unSigno,unaFaccion,unaImg,unaPers) {
+﻿function trapo(unNombre,unApellido,unaEdad,unAno,unSigno,unaFaccion,unaImg,unaPers) {
   this.nombre = unNombre;
   this.apellido = unApellido;
   this.edad = unaEdad;
@@ -54,5 +54,33 @@ l.push(new trapo("Kurome","Aishida",18,4,2,'araña',"imgs/7.jpg",
 l.push(new trapo("Débora","Kurnicobra",18,4,1,'conejo',"imgs/14.jpg",
 "Dulce, amable, ejemplo a seguir, lider del consejo estudiantil."));
 
+l.push(new trapo("Jazmin","Salvi",17,3,8,'unicornio',"imgs/pix.jpg",
+"Bromista, poco seria, diva, bailarina, artista, programadora."));
+
 l.push(new trapo("Ganesha","Pictus",26,0,8,'',"imgs/teacher.jpg",
 "Profesora, rockera, energica, cool."));
+
+l.push(new trapo("Eugine","Marroc",34,0,12,'',"imgs/doc.jpg",
+"doctor muy compasivo y amable, elegante, profesional."));
+
+// chicos
+l.push(new trapo("John","Hertz",15,1,1,'conejo',"imgs/c1.jpg",
+"Buen chico, amable, educado, timido, inseguro."));
+
+l.push(new trapo("Nyo","Workenhein",16,2,3,'zorra',"imgs/c7.jpg",
+"Elocuente, bromista, altanero, skater, popular, sabe lo que quiere."));
+
+l.push(new trapo("Mark","Kiev",17,3,4,'araña',"imgs/c2.jpg",
+"callado, poco comunicativo, nerd, morboso, le gustal a ropa interior."));
+
+l.push(new trapo("Lilito","Lugwin",17,3,2,'unicornio',"imgs/c3.jpg",
+"Creido, estetico, glamoroso, bailarin, idol, cool."));
+
+l.push(new trapo("Sato","Yamamoto",16,2,11,'conejo',"imgs/c4.jpg",
+"correcto, serio, seguidor de las reglas, monitor de pasillo, alumno ejemplar."));
+
+l.push(new trapo("Keitaro","Yamamoto",16,2,11,'zorra',"imgs/c5.jpg",
+"rebelde empedernido, problematico, bully, alumno problematico."));
+
+l.push(new trapo("Maximus","Salina",18,3,8,'zorra',"imgs/c6.jpg",
+"Serio, agresivo, varonil, cortante, sadico"));
