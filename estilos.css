@@ -1,0 +1,63 @@
+body {
+  color: white;
+  font-family: keepCalm;
+  font-size: 20px;
+  background-color: #000000;
+  padding: 30px;
+}
+#navbarLeft {
+  float:left;
+  background-color: #252525;
+  padding: 15px;
+  border-radius: 15px;
+  width: 390px;
+}
+#navbarLeft img {
+  width:90px;
+  height: 130px;
+  border-radius: 30px;
+  margin: 3px;
+}
+.elemGal {
+  float:left;
+  padding: 0px;
+}
+.elemGal img {
+
+  width:150px;
+  height: 150px;
+  filter:blur(1px);
+}
+.elemGal img:hover {
+  filter:brightness(1.4);
+  filter:contrast(1.4);
+}
+#cuerpo {
+  padding: 35px;
+  border-radius: 15px;
+  float:left;
+  width: 58%;
+}
+#imgGrande {
+  width:300px;
+  float:right;
+}
+.nom {
+  font-size: 30px;
+  padding: 15px;
+  background-color: rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+}
+.datos {
+  width: 180px;
+  line-height: 40px;
+}
+
+@font-face {
+  font-family: september;
+  src: url('fuentes/22 September.otf');
+}
+@font-face {
+  font-family: keepCalm;
+  src: url(fuentes/KeepCalm-Medium.ttf);
+}
