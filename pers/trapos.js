@@ -84,3 +84,6 @@ l.push(new trapo("Keitaro","Yamamoto",16,2,11,'zorra',"imgs/c5.jpg",
 
 l.push(new trapo("Maximus","Salina",18,3,8,'zorra',"imgs/c6.jpg",
 "Serio, agresivo, varonil, cortante, sadico"));
+
+l.push(new trapo("Mendel","Anderwood",17,2,8,'conejo',"imgs/c8.jpg",
+"Algo callado y buen amigo, inexpresivo"));
